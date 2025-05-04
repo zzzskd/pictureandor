@@ -52,6 +52,12 @@
         <mxCell id="GLUU1QFi1iWbL2f7jV7O-19" value="22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GLUU1QFi1iWbL2f7jV7O-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GLUU1QFi1iWbL2f7jV7O-22" value="SSH Tunnel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
